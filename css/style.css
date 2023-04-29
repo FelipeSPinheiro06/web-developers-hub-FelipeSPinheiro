@@ -33,3 +33,65 @@ header, section, footer{
     text-decoration: none;
     border-radius: 0.5em;
 }
+
+.felipespinheiro06_navegar {
+    padding-left: 10px;
+    background-color: rgb(204, 204, 204);
+    width:100%;
+    position:absolute;
+    top:0;
+}
+
+.felipespinheiro06_navegar li {
+    list-style-type: none;
+    display: inline;
+    padding-left:40px;
+}
+
+.felipespinheiro06_navegar li a {
+    text-decoration: none;
+    color:#333;
+    font-weight:bold;
+}
+
+header .felipespinheiro06_h1, .felipespinheiro06_titulo {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header .felipespinheiro06_h1 {
+    margin-top:80px;
+    font-size:38px;
+    margin-left:45px;
+    color:rgb(12, 83, 141);
+}
+
+header .felipespinheiro06_img {
+    width: 100%;
+    max-width: 600px;
+}
+
+.felipespinheiro06_titulo {
+    margin-top:80px;
+    margin-left:45px;
+    font-size:32px; 
+    color:rgb(6, 47, 80);
+}
+
+section .felipespinheiro06_p {
+    text-indent:25px;
+    margin-left:48px;
+    word-spacing: 3px;
+    line-height:22px;
+}
+
+footer .felipespinheiro06_img_container {
+    margin-left:60px;
+}
+
+footer .felipespinheiro06_img_container img {
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    background-color: #777;
+    padding:5px;
+}
